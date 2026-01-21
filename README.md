@@ -18,6 +18,9 @@ SKILLS DEMONSTRATED ACROSS ALL PROJECTS:
 - Executive-Ready Report Design
 
 AUTHOR: Madhusudan Rajpurohit
+
 CREATED: January 2026
+
 EDUCATION: BCA Graduate | Career247 Data Analytics Bootcamp
+
 PURPOSE: Portfolio demonstration for Data Analyst role applications
